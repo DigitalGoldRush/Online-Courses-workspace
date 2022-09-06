@@ -1,2 +1,2 @@
 # Udemy-Courses
-VArious online classes from Udemy
+Various online classes from Udemy
