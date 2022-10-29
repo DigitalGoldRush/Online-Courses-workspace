@@ -1,2 +1,2 @@
 # Udemy-Courses
-Various online classes from Udemy
+Workspace from various online courses
